@@ -2,4 +2,4 @@
 
 ## Я студент [Яндекс Практикум](https://praktikum.yandex.ru/) 
 
-* js, react
+:collision: Изучаю различные технологии frontend разработки
