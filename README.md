@@ -1,6 +1,6 @@
 # Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Меня зовут Максим.
 
-## Я начинающий веб-разработчик
+## Я начинающий frontend разработчик
 
 :collision: Изучаю различные технологии frontend разработки
 
